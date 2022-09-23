@@ -9,7 +9,7 @@ numpy==1.14.4
 olefile==0.45.1
 opencv-python==3.2.0.6
 Pillow==4.0.0
-protobuf==3.5.2.post1
+protobuf==3.18.3
 PyYAML==3.12
 scipy==1.1.0
 six==1.11.0
